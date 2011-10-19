@@ -137,3 +137,5 @@ PS1='\[\033[01;31m\]\h\[\033[01;34m\] \w \$\[\033[00m\]'
 alias rb='ruby -S bundle exec rspec'
 #Command to switch to ovigz
 alias rvmrob='rvm use ruby-1.9.2-p0@ovigz'
+#Command to switch to rails 3.1.0
+alias rvm31='rvm use ruby-1.9.2-p0@rails-3.1.0'
