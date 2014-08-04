@@ -143,4 +143,6 @@ alias rvmrob='rvm use ruby-1.9.2-p0@ovigz'
 alias rvm31='rvm use ruby-1.9.2-p0@rails-3.1.0'
 
 #Dart
-export DART_SDK=$HOME/Developer/Tools/dart/dart-sdk
+export DART_SDK=/home/nthillaiarasu/Developer/Tools/dart/dart-sdk
+export PATH=$PATH:$DART_SDK/bin
+
